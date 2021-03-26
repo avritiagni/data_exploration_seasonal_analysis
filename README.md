@@ -1,2 +1,2 @@
-# data_exploration_seasonal_analysis
+# Data exploration seasonal analysis
 Seasonal analysis
